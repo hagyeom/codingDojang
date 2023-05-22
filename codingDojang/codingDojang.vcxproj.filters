@@ -18,5 +18,14 @@
     <ClCompile Include="bitwise_and_or_xor_operator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bitwise_not_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_shift_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_asign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
