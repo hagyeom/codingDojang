@@ -27,5 +27,11 @@
     <ClCompile Include="bitwise_asign.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="codingDojang_23_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codingDojang_23_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
