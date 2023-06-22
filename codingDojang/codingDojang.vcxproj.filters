@@ -33,5 +33,32 @@
     <ClCompile Include="codingDojang_23_9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bitwise_shift_power_of_two.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_shift_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_right_shift_signed_unsigned.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_right_shift_signed.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_left_shift_signed.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitswise_flag_on.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_off.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_toggle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
