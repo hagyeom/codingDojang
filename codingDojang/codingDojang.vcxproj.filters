@@ -57,7 +57,7 @@
     <ClCompile Include="bitwise_flag_toggle.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.c">
+    <ClCompile Include="switch_scanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
