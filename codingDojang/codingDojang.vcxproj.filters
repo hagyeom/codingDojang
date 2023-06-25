@@ -60,5 +60,35 @@
     <ClCompile Include="switch_scanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="do_while_0_to_99.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_1_to_100.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_100_to_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_scanf_increment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_scanf_decrement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_random.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_infinite_loop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_once.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_do_while.sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
