@@ -114,16 +114,7 @@
     <ClCompile Include="star_mountine_shape.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="goto.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="if_multiple_loop.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="goto_multiple_loop.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="goto_error_pattern.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
