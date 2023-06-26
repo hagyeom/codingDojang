@@ -126,8 +126,5 @@
     <ClCompile Include="goto_error_pattern.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="judge_goto.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
