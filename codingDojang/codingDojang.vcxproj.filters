@@ -111,5 +111,8 @@
     <ClCompile Include="judge_exclude_number_ending_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="star_mountine_shape.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
