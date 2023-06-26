@@ -117,5 +117,23 @@
     <ClCompile Include="if_multiple_loop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="print_1_to_100.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="multiple_of_3_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fizzbuzz.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fizzbuzz_without_logical_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fizzbuzz_code_golf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fizzbuzz_5_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
