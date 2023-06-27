@@ -135,5 +135,41 @@
     <ClCompile Include="fizzbuzz_5_11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dereference_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_type.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="double_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_alloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_set.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="null_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_add_two_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
