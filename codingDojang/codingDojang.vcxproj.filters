@@ -204,5 +204,47 @@
     <ClCompile Include="judge_smallest_number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_deimensional_array_init.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_for_reserve.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_transpose_of_matrix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_like_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_scanf_like_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_like_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_scanf_like_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unit_matrix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjacentMines.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
