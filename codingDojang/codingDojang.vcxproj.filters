@@ -279,5 +279,47 @@
     <ClCompile Include="scanf_four_string_pointer_memory.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_length.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_compare.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_compare_abc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_scanf_compare.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_scanf_strlen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_scanf_strcmp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_copy_array_to_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_copy_pointer_to_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_concatenate_array_to_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_concatenate_pointer_to_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_copy_array_to_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_concatenate_array_to_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string_copy_array_to_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string_concatenate.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
