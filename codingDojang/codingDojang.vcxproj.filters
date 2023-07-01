@@ -321,5 +321,35 @@
     <ClCompile Include="judge_string_concatenate.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_format_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_format_char_int_float_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_format_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_format_char_int_float_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string_format_ordinal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_find_character.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_find_from_the_right_character.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_find_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_find_string_while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_count_the_number_of_space.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
