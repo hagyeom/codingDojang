@@ -369,5 +369,41 @@
     <ClCompile Include="judge_count_specific_words.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ascii_string_to_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_to_long.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_to_long_multiple_integers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_string_to_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_string_exponetial_notation_to_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_fo_float_multiple_real_numbers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_to_hex_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_to_exponential_notation_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string_to_multiple_integers_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_integer_real_number_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
