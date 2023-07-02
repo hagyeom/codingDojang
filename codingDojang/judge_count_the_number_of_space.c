@@ -17,7 +17,7 @@ int main() {
     }
 
     // 공백 개수 출력
-    printf("공백 개수: %d\n", spaceCount);
+    printf("%d\n", spaceCount);
 
     return 0;
 }

@@ -351,5 +351,23 @@
     <ClCompile Include="judge_count_the_number_of_space.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_tokenize_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tokenize_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tokenize_timestamp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tokenize_store_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string_tokensize_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_count_specific_words.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
