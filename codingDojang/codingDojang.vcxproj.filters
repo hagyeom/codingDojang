@@ -405,5 +405,20 @@
     <ClCompile Include="judge_integer_real_number_to_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="palindrome.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_gram_character.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_gram_word.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_palidrome.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_ngram.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
